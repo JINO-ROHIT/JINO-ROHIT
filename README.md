@@ -9,6 +9,9 @@
 - ⚽ Hobbies: I love to play football and I can sing a little bit, maybe?
 
 ---
+![](https://komarev.com/ghpvc/?username=JINO-ROHIT&color=orange)
+
+---
 
 ### Connect with me:
 
