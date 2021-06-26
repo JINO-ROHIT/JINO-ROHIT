@@ -3,10 +3,10 @@
 ## I make cute cat-dog classifiers :)
 
 - 💪 Machine learning of any kind
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently doing my Bachelors in Computer Science
 - 👯 I’m looking to collaborate with like-minded people for making some really cool projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚽ Fun fact: I love to play football and I can sing a little bit, maybe?
+- 🥅 2021 Goals: Implement atleast 20 research papers and get started with NLP Bert
+- ⚽ Hobbies: I love to play football and I can sing a little bit, maybe?
 
 ---
 
