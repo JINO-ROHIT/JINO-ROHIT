@@ -16,9 +16,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINO-ROHIT)](https://github.com/JINO-ROHIT/github-readme-stats)
-
----
 
 ### Languages and Tools
 
@@ -64,6 +61,10 @@
 
 
 [![Jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINO-ROHIT&show_icons=true&theme=tokyonight)](https://github.com/JINO-ROHIT/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/jino-rohit-6032541b5/
