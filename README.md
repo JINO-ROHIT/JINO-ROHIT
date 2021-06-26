@@ -39,7 +39,7 @@
 
 
 
-[![Jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINO-ROHIT)](https://github.com/JINO-ROHIT/github-readme-stats)
+[![Jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINO-ROHIT&show_icons=true&theme=gruvbox)](https://github.com/JINO-ROHIT/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/jino-rohit-6032541b5/
