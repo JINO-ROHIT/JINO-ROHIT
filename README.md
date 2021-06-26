@@ -30,10 +30,8 @@
 <br />
 <br />
 
-
-<img align="left" alt="GCP" width="40" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/GCP_LOG.png" />
 <img align="left" alt="AWS" width="55" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/AWS.jpeg" />
-<img align="left" alt="google_analytics" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_analytics.png" />
+<img align="left" alt="google_analytics" width="55" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/google_analytics.png" />
 <img align="left" alt="google_data_studio" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/google_data_studio.png" />
 <img align="left" alt="colab" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/colab.png" />
 <img align="left" alt="tableau" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.png" />
