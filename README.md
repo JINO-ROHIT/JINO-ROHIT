@@ -39,12 +39,7 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JINOROHIT&show_icons=true&hide_border=true" />
-
-</details>
+[![Jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINOROHIT)](https://github.com/JINOROHIT/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/jino-rohit-6032541b5/
