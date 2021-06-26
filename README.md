@@ -64,7 +64,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINO-ROHIT&layout=compact)](https://github.com/JINO-ROHIT/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/jino-rohit-6032541b5/
