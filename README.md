@@ -8,6 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚽ Fun fact: I love to play football and I can sing a little bit, maybe?
 
+---
 
 ### Connect with me:
 
