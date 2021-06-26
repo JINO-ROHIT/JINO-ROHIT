@@ -1,4 +1,4 @@
-### Hi there, I'm Jino 👋
+# Hi there, I'm Jino 👋
 
 ## I make cute cat-dog classifiers :)
 
