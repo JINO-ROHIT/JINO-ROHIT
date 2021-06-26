@@ -16,6 +16,8 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINO-ROHIT)](https://github.com/JINO-ROHIT/github-readme-stats)
+
 ---
 
 ### Languages and Tools
