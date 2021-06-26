@@ -25,8 +25,8 @@
 <img align="left" alt="Visual Studio Code" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="Git" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
 <br />
 <br />
 
@@ -37,6 +37,7 @@
 <img align="left" alt="spark-logo-trademark" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/spark-logo-trademark.png" />
 <img align="left" alt="excel" class="center" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/excel.png" />
 
+<br />
 <br />
 <br />
 
@@ -52,6 +53,9 @@
 
 <br />
 <br />
+<br />
+
+
 
 [![Jino's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINO-ROHIT&show_icons=true&theme=tokyonight)](https://github.com/JINO-ROHIT/github-readme-stats)
 
