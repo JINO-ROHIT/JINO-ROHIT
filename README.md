@@ -34,7 +34,7 @@
 
 <img align="left" alt="AWS" width="55" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/AWS.jpeg" />
 <img align="left" alt="colab" width="40" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/colab.png" />
-<img align="left" alt="tableau" width="55" src="https://github.com/mJINO-ROHIT/JINOROHIT/blob/master/images/tableau.png" />
+<img align="left" alt="tableau" width="55" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/tableau.png" />
 <img align="left" alt="Jupyter_logo" width="30" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/Jupyter_logo.png" />
 <img align="left" alt="spark-logo-trademark" width="40" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/spark-logo-trademark.png" />
 <img align="left" alt="excel" class="center" width="30" src="https://github.com/JINO-ROHIT/JINOROHIT/blob/master/images/excel.png" />
