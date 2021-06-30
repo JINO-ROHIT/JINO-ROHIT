@@ -66,5 +66,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINO-ROHIT&layout=compact)](https://github.com/JINO-ROHIT/github-readme-stats)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JINO-ROHIT&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JINO-ROHIT&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
 [linkedin]: https://www.linkedin.com/in/jino-rohit-6032541b5/
