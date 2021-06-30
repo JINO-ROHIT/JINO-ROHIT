@@ -10,7 +10,7 @@
 
 ---
 
-### Connect with me:
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Connect with me</b></i></p>
 
 [<img align="left" alt="Jino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
