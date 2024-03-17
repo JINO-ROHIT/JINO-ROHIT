@@ -2,16 +2,19 @@
 
 ## I make cute cat-dog classifiers :)
 
-- 💪 Machine learning of any kind
-- 🌱 I’m currently a Senior Data Scientist
-- 👯 I’m looking to collaborate with like-minded people for making some really cool projects
-- ⚽ Hobbies: I love to play football and I can sing a little bit, maybe?
+🚀 Kaggle Competitions Expert
+
+🎉 SRM Machine Learning Hackathon 2021 Winner, Dphi World Data League External Competition 2022 Winner, World Data League Semi-Finalist.
+
+👨‍💻 I'm super passionate about Computer Vision and NLP.
+
+📫 You can get in touch with me via email at find.jinorohit@gmail.com
+
 
 ---
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Connect with me</b></i></p>
-
-[<img align="left" alt="Jino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jino-rohit-6032541b5/)
 
 <br />
 <br />
