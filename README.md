@@ -26,3 +26,6 @@
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JINO-ROHIT&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JINO-ROHIT&icon=7&color=7)](https://visitcount.itsvg.in)
