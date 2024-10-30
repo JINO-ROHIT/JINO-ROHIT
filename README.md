@@ -2,9 +2,9 @@
 
 ## I make cute cat-dog classifiers :)
 
-🚀 Kaggle Competitions Expert
+🚀 Kaggle Competitions Expert (Global Top 1%)
 
-🎉 SRM Machine Learning Hackathon 2021 Winner, Dphi World Data League External Competition 2022 Winner, World Data League Semi-Finalist.
+🎉 WNS Hackathon 2023 Second Place, Ripik Hackathon 2023 Second Place, SRM Machine Learning Hackathon 2021 Winner, Dphi World Data League External Competition 2022 Winner, World Data League Semi-Finalist.
 
 👨‍💻 I'm super passionate about Computer Vision and NLP.
 
